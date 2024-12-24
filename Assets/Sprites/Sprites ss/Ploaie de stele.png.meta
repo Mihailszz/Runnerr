@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: b46d06b342ff2674dae13d2dd004a663
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2142411006229346786
+    second: Ploaie de stele_0
+  - first:
+      213: 1707277199951365559
+    second: Ploaie de stele_1
+  - first:
+      213: -6827933046429958371
+    second: Ploaie de stele_2
+  - first:
+      213: -4164911899007540526
+    second: Ploaie de stele_3
+  - first:
+      213: 8436004665864174789
+    second: Ploaie de stele_4
+  - first:
+      213: -1504045577498064773
+    second: Ploaie de stele_5
+  - first:
+      213: -5288593827917207221
+    second: Ploaie de stele_6
+  - first:
+      213: 4311211744607902051
+    second: Ploaie de stele_7
+  - first:
+      213: 2654242969079360972
+    second: Ploaie de stele_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ploaie de stele_0
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1649
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1600d27a80a442e0800000000000000
+      internalID: -2142411006229346786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_1
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1612
+        width: 34
+        height: 46
+      alignment: 9
+      pivot: {x: 0.89937276, y: 0.93687636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5893c519771b710800000000000000
+      internalID: 1707277199951365559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1516
+        width: 77
+        height: 142
+      alignment: 9
+      pivot: {x: 0.9584977, y: 0.97429216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3469f11f4e31a0800000000000000
+      internalID: -6827933046429958371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_3
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1392
+        width: 114
+        height: 266
+      alignment: 9
+      pivot: {x: 0.9686665, y: 0.98537266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2abdac1b24336c0800000000000000
+      internalID: -4164911899007540526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_4
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 773
+        width: 426
+        height: 879
+      alignment: 9
+      pivot: {x: 0.9907095, y: 0.99309117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc3f583c85b21570800000000000000
+      internalID: 8436004665864174789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_5
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 139
+        width: 638
+        height: 1515
+      alignment: 9
+      pivot: {x: 0.978927, y: 0.9904174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b780b3b148e802be0800000000000000
+      internalID: -1504045577498064773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_6
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 96
+        width: 124
+        height: 268
+      alignment: 9
+      pivot: {x: 4.1, y: 5.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49eba50fe32b96b0800000000000000
+      internalID: -5288593827917207221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_7
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 72
+        width: 81
+        height: 142
+      alignment: 9
+      pivot: {x: 5.5826674, y: 11.032493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36998dc6d3084db30800000000000000
+      internalID: 4311211744607902051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ploaie de stele_8
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 38
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 19.182138, y: 60.32886}
+      border: {x: 8, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdad87eae3c5d420800000000000000
+      internalID: 2654242969079360972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
